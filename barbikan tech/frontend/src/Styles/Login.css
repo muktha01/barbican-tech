@@ -1,0 +1,10 @@
+.box-center {
+  background-color: #fff; /* tailwind red-500 */
+  width: 600px; 
+  padding: 2rem;
+  display: flex;
+  flex-direction: column; /* stack children vertically */
+  align-items: center;     /* center horizontally */
+  justify-content: flex-start; /* align items from the top */
+  border-radius: 8px;
+}

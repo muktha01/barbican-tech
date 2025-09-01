@@ -1,0 +1,11 @@
+"message": "Factories retrieved successfully",
+
+
+http://localhost:5000/api/factories
+
+
+Check Paranoid
+
+change UUID to UUIDV4
+
+check type and module
